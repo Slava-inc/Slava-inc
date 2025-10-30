@@ -26,7 +26,7 @@
   Бот-собеседник для группы в телеграмм.
 ---
 
-- **[Interlocutor](https://github.com/Slava-inc/wildberries-bot)**  
+- **[wildberries-bot](https://github.com/Slava-inc/wildberries-bot)**  
   Телеграмм-бот для интеграции с Wildberries.
 ---
 ## 2. 🎓 Учебные проекты
