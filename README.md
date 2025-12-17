@@ -94,6 +94,11 @@
   Заполнение сметы данными из поступлений на склад (количество, цена, средняя цена) с подтверждением пользователя.
 
 ---
+
+- **[CRM-MVP-Sreamli](https://github.com/Slava-inc/CRM-MVP-Sreamlit)**  
+  CRM на базе google таблицы со Streamlit интерфейсом
+
+---
 ### 📈 Статистика GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slava-inc&show_icons=true&theme=dark)
